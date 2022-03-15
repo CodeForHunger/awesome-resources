@@ -177,7 +177,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
 - :video_camera: [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - :books: [Learn C Org](https://www.learn-c.org)
-
+- :bulb: [C Programming Exercises](https://bit.ly/37vTMo6)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -205,7 +205,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science)
 - :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
+- :video_camera: [Top 5 C Programming Courses](https://bit.ly/3MMJy2K)
 ---
 
 **[⬆ Back to Index](#content)**
