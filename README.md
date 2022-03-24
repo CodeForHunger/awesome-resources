@@ -177,7 +177,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
 - :video_camera: [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - :books: [Learn C Org](https://www.learn-c.org)
-- :bulb: [C Programming Exercises](https://bit.ly/37vTMo6)
+- :bulb: [code-for-hunger](https://bit.ly/37vTMo6)
 ---
 
 **[⬆ Back to Index](#content)**
